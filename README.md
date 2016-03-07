@@ -31,7 +31,9 @@ c.	Specify the number of runs
 d.	Start/Stop/Pause the run
 e.	Change the color/shape of the live/dead cells
 f.	View the log files
-g.	Pipe the logs to ELK stack
+g.	g.	Pipe the logs to ELK (Elasticsearch, Logstash, Kibana) stack to “visualize” results.
+h.	How would the Graph API look like?
+
 2.	Reduce the number of lines of code
 3.	Read from a file
 4.	Track one particular cell: how many times it became alive/dead in a certain number of cycles?
